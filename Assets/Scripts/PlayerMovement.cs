@@ -16,6 +16,7 @@ public class PlayerMovement : MonoBehaviour {
     private float xRotation;
     private float sensitivity = 50f;
     private float sensMultiplier = 1f;
+    public Vector3 rot;
     
     //Movement
     public float moveSpeed = 4500;
@@ -40,7 +41,7 @@ public class PlayerMovement : MonoBehaviour {
     
     //Input
     float x, y;
-    bool jumping, sprinting, crouching;
+    public bool jumping, sprinting, crouching, clicking;
     
     //Sliding
     private Vector3 normalVector = Vector3.up;
@@ -74,6 +75,7 @@ public class PlayerMovement : MonoBehaviour {
         y = Input.GetAxisRaw("Vertical");
         jumping = Input.GetButton("Jump");
         crouching = Input.GetKey(KeyCode.LeftControl);
+        clicking = Input.GetKeyDown(KeyCode.Mouse0);
       
         //Crouching
         if (Input.GetKeyDown(KeyCode.LeftControl))
@@ -172,7 +174,7 @@ public class PlayerMovement : MonoBehaviour {
         float mouseY = Input.GetAxis("Mouse Y") * sensitivity * Time.fixedDeltaTime * sensMultiplier;
 
         //Find current look rotation
-        Vector3 rot = playerCam.transform.localRotation.eulerAngles;
+        rot = playerCam.transform.localRotation.eulerAngles;
         desiredX = rot.y + mouseX;
         
         //Rotate, and also make sure we dont over- or under-rotate.
