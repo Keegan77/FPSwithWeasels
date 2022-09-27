@@ -18,4 +18,13 @@ public class Enemy : MonoBehaviour
     {
         rb.AddForce((player.transform.position - transform.position).normalized * speed);
     }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("NinjaStar"))
+        {
+            Destroy(collision.gameObject);
+            Destroy(gameObject);
+        }
+    }
 }

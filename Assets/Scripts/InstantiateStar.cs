@@ -16,7 +16,6 @@ public class InstantiateStar : MonoBehaviour
     private void Awake()
     {
         rb = GetComponent<Rigidbody>();
-        
     }
     void Start()
     {
