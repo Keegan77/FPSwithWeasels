@@ -1525,6 +1525,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (10)
@@ -2539,6 +2543,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (2)
@@ -3179,6 +3187,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (13)
@@ -6007,6 +6019,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (14)
@@ -6329,6 +6345,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (1)
@@ -9496,6 +9516,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (11)
@@ -9686,6 +9710,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (3)
@@ -10862,6 +10890,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (8)
@@ -12307,6 +12339,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (9)
@@ -12718,6 +12754,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (15)
@@ -13492,6 +13532,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (7)
@@ -15454,6 +15498,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (12)
@@ -15953,6 +16001,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (6)
@@ -16972,6 +17024,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (4)
@@ -20824,6 +20880,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support (5)
@@ -21624,6 +21684,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0ec1cc980e3436d48ab40d923fe3cd6e, type: 2}
     - target: {fileID: 919132149155446097, guid: 789afbdac706dd840bfbfb169540f539, type: 3}
       propertyPath: m_Name
       value: Ceiling Support
