@@ -65,7 +65,11 @@ public class PlayerMovement : MonoBehaviour {
     private void Update() {
         MyInput();
         Look();
-    }
+        if  (Input.GetKeyDown(KeyCode.Escape)) 
+        { 
+            Application.Quit();
+        }
+    }   
 
     /// <summary>
     /// Find user input. Should put this in its own class but im lazy

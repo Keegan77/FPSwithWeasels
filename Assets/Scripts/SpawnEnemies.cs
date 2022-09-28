@@ -17,10 +17,11 @@ public class SpawnEnemies : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Quaternion spawnRot = Quaternion.Euler(0, 0, 0);
         timer = timer - Time.deltaTime;
         if (timer < 0)
         {
-            Instantiate(enemy, tf);
+            Instantiate(enemy, new Vector3(tf.position.x, tf.position.y, tf.position.z), spawnRot);
             timer = timerStart;
         }
         Debug.Log(timer);
