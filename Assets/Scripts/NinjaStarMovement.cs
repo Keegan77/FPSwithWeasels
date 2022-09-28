@@ -7,6 +7,7 @@ public class NinjaStarMovement : MonoBehaviour
     private Rigidbody rb;
     private CapsuleCollider playerColl;
     private BoxCollider ninjaStarColl;
+    private float timer = 3;
 
     private void Awake()
     {
@@ -22,7 +23,11 @@ public class NinjaStarMovement : MonoBehaviour
     void Update()
     {
         IgnorePlayerColl();
-        
+        timer = timer - Time.deltaTime;
+        if (timer < 0)
+        {
+            Destroy(gameObject);
+        }
     }
 
     void IgnorePlayerColl()
